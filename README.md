@@ -1,6 +1,6 @@
 # Excel Functions and Features
 
-This repository contains a list of Excel functions and features that I have learned during my Excel course. Each function or feature is accompanied by examples to demonstrate its usage.
+This repository contains examples and explanations for various Excel functions, features, and tasks that I've learned during my Excel course. Whether you're a beginner looking to learn Excel or an experienced user seeking a refresher, you'll find useful information and practical examples here.
 
 ## Contents
 
