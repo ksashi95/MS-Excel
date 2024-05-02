@@ -56,4 +56,4 @@ Feel free to explore the folders and files to enhance your Excel skills.
 
 ## Acknowledgements
 
-Special thanks to Sudesh Kamble Sir for providing valuable insights and knowledge on Excel functions and tasks.
+Special thanks to *Sudesh Kamble Sir* for providing valuable insights and knowledge on Excel functions and tasks.
